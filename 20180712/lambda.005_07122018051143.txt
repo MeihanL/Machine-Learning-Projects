@@ -1,0 +1,35 @@
+Run Report
+(see log file saved in same directory for possible errors)
+
+
+
+Two D Image View
+Image File Name	Scan Size(µm)	Scan Rate (Hz)	Samples/Line 	Lines 	Line Direction	Data Type	Scan Line	Date	Tip Serial Number	Aspect Ratio	Capture Direction	Amplitude Setpoint	Drive Amplitude	
+120kbp.000	2.00	4.41	384	384	Retrace	Height Sensor	Main	11:44:43 AM Thu Jul 12 2018	Unknown	1.00	Down	113.17 mV	54.32 mV	
+120kbp.001	4.00	2.99	384	384	Retrace	Height Sensor	Main	12:00:40 PM Thu Jul 12 2018	Unknown	1.00	Down	142.07 mV	61.04 mV	
+120kbpapts.000	4.00	2.46	384	384	Retrace	Height Sensor	Main	04:22:54 PM Thu Jul 12 2018	Unknown	1.00	Down	137.94 mV	57.37 mV	
+120kbpapts.001	6.00	9.30	384	384	Retrace	Height Sensor	Main	04:23:51 PM Thu Jul 12 2018	Unknown	1.00	Down	137.94 mV	57.37 mV	
+120kbpapts.002	1.80	9.30	384	384	Retrace	Height Sensor	Main	04:24:48 PM Thu Jul 12 2018	Unknown	1.00	Down	137.94 mV	57.37 mV	
+lambda.000	1.000000	5.23	512	512	Retrace	Height Sensor	Main	03:22:07 PM Thu Jul 12 2018	Unknown	1.00	Down	140.84 mV	56.76 mV	
+lambda.001	1.000000	4.83	512	512	Retrace	Height Sensor	Main	03:27:21 PM Thu Jul 12 2018	Unknown	1.00	Down	140.84 mV	56.76 mV	
+lambda.002	4.00	4.48	512	512	Retrace	Height Sensor	Main	03:35:05 PM Thu Jul 12 2018	Unknown	1.00	Down	145.46 mV	56.76 mV	
+lambda.003	3.00	5.71	512	256	Retrace	Height Sensor	Main	03:38:35 PM Thu Jul 12 2018	Unknown	2.00	Down	145.46 mV	56.76 mV	
+lambda.004	2.00	5.23	512	512	Retrace	Height Sensor	Main	03:41:31 PM Thu Jul 12 2018	Unknown	1.00	Down	145.46 mV	56.76 mV	
+lambda.005	0.300000	5.23	512	512	Retrace	Height Sensor	Main	03:43:40 PM Thu Jul 12 2018	Unknown	1.00	Up	145.46 mV	56.76 mV	
+lambda.006	4.00	2.03	512	512	Retrace	Height Sensor	Main	03:49:53 PM Thu Jul 12 2018	Unknown	1.00	Down	145.46 mV	56.76 mV	
+lambda.007	2.50	4.48	512	512	Retrace	Height Sensor	Main	04:03:53 PM Thu Jul 12 2018	Unknown	1.00	Down	143.12 mV	56.76 mV	
+lambda.008	0.500000	4.48	512	512	Retrace	Height Sensor	Main	04:06:30 PM Thu Jul 12 2018	Unknown	1.00	Down	143.12 mV	56.76 mV	
+lambda.009	1.50	4.83	512	512	Retrace	Height Sensor	Main	04:11:16 PM Thu Jul 12 2018	Unknown	1.00	Down	143.12 mV	56.76 mV	
+lambda.010	10.0	4.48	1024	1024	Retrace	Height Sensor	Main	04:39:45 PM Thu Jul 12 2018	Unknown	1.00	Down	138.72 mV	57.37 mV	
+lambda.011	2.00	4.83	512	512	Retrace	Height Sensor	Main	04:47:31 PM Thu Jul 12 2018	Unknown	1.00	Down	142.94 mV	57.37 mV	
+lambda.012	0.300000	4.83	512	512	Retrace	Height Sensor	Main	04:51:01 PM Thu Jul 12 2018	Unknown	1.00	Down	142.94 mV	57.37 mV	
+lambda.013	2.00	4.83	512	512	Retrace	Height Sensor	Main	04:54:06 PM Thu Jul 12 2018	Unknown	1.00	Down	142.94 mV	57.37 mV	
+lambda.014	1.50	4.83	512	512	Retrace	Height Sensor	Main	04:58:57 PM Thu Jul 12 2018	Unknown	1.00	Down	142.94 mV	57.37 mV	
+lambda.015	0.500000	4.83	512	512	Retrace	Height Sensor	Main	05:02:09 PM Thu Jul 12 2018	Unknown	1.00	Down	142.94 mV	57.37 mV	
+lambda.016	4.00	4.83	512	256	Retrace	Height Sensor	Main	05:07:15 PM Thu Jul 12 2018	Unknown	2.00	Down	142.94 mV	57.37 mV	
+lambda.017	0.500000	5.23	512	512	Retrace	Height Sensor	Main	05:09:45 PM Thu Jul 12 2018	Unknown	1.00	Down	142.94 mV	57.37 mV	
+
+Average	2.539130	4.942609	506.434783	484.173913	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	
+Std Dev	2.232353	1.631974	124.927552	144.179072	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	
+Maximum	10.000000	9.300000	1024.000000	1024.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	
+Minimum	0.300000	2.030000	384.000000	256.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	0.000000	
